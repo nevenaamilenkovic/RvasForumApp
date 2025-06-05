@@ -8459,23 +8459,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\milen\\.nuget\\packages\\": {},
-    "D:\\programi\\visual studio\\Nova fascikla (3)\\NuGetPackages": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "D:\\Microsoft Visual Studio 2022\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Vezbe RVAS\\Code first\\RvasForumApp\\ForumApp.csproj",
+      "projectUniqueName": "D:\\Code first\\RvasForumApp\\ForumApp.csproj",
       "projectName": "ForumApp",
-      "projectPath": "F:\\Vezbe RVAS\\Code first\\RvasForumApp\\ForumApp.csproj",
-      "packagesPath": "C:\\Users\\milen\\.nuget\\packages\\",
-      "outputPath": "F:\\Vezbe RVAS\\Code first\\RvasForumApp\\obj\\",
+      "projectPath": "D:\\Code first\\RvasForumApp\\ForumApp.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "D:\\Code first\\RvasForumApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\programi\\visual studio\\Nova fascikla (3)\\NuGetPackages"
+        "D:\\Microsoft Visual Studio 2022\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\milen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8502,7 +8502,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -8562,7 +8562,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

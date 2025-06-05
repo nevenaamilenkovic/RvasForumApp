@@ -153,5 +153,13 @@ namespace ForumApp.Controllers
 
             return View(c);
         }
+
+
+        //da vrati view s AJAXom za test
+        [HttpGet]
+        public IActionResult Upravljaj()
+        {
+            return View();
+        }
     }
 }

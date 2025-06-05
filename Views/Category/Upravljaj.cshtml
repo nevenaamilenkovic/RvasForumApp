@@ -1,0 +1,141 @@
+﻿@{
+    ViewData["Title"] = "Upravljanje kategorijama uz API";
+}
+
+<h2>Test API-ja (preporuka postman za PUT mada moze i za DELETE, POST i GET)</h2>
+
+
+<div id="dodavanje">
+    <h3>Dodaj novu kategoriju</h3>
+    <form id="formaDodajKategoriu">
+        <label>Naziv: </label><br />
+        <input type="text" id="inputName" placeholder="Unesi naziv" required /><br /><br />
+
+        <label>Parent ID (opcionalno): </label><br />
+        <input type="number" id="inputParentId" placeholder="ParentCategoryId ili ostavi prazno" /><br /><br />
+
+        <button type="submit">Dodaj</button>
+    </form>
+    <div id="greskaDodaj" style="color:red; margin-top:5px;"></div>
+</div>
+
+<hr />
+
+<div id="lista">
+    <h3>Lista kategorija</h3>
+    <table id="tabela" border="1" cellpadding="5">
+        <thead>
+            <tr>
+                <th>CategoryId</th>
+                <th>Name</th>
+                <th>ParentCategoryId</th>
+                <th>Akcija</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+<!-- REFERENCA NA jQuery mada ima je u layoutu al bolje i ovde -->
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function () {
+            function ucitajSve() {
+                $.ajax({
+                    url: '/api/Category',
+                    method: 'GET',
+                    dataType: 'json',
+                    success: function (data) {
+                        $('#tabela tbody').empty();
+
+                        data.forEach(function (cat) {
+                            var parent = cat.parentCategoryId === null ? '-' : cat.parentCategoryId;
+                            var red = '<tr data-id="' + cat.categoryId + '">' +
+                                '<td>' + cat.categoryId + '</td>' +
+                                '<td>' + cat.name + '</td>' +
+                                '<td>' + parent + '</td>' +
+                                '<td><button class="btn-brisi">Obrisi</button></td>' +
+                                '</tr>';
+                            $('#tabela tbody').append(red);
+                        });
+                    },
+                    error: function (xhr) {
+                        console.error('Gresska pri GET /api/Category:', xhr.responseText);
+                    }
+                });
+            }
+
+            ucitajSve();
+
+            $('#formaDodajKategoriu').submit(function (e) {
+                e.preventDefault();
+                var naziv = $('#inputName').val().trim();
+                if (!naziv) {
+                    $('#greskaDodaj').text('Naziv kategorije je obaveyan.');
+                    return;
+                }
+
+                var parentRaw = $('#inputParentId').val();
+                var parentId = null;
+                if (parentRaw && parseInt(parentRaw) > 0) {
+                    parentId = parseInt(parentRaw);
+                }
+
+                var novo = {
+                    name: naziv,
+                    parentCategoryId: parentId
+                };
+
+                $.ajax({
+                    url: '/api/Category',
+                    method: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify(novo),
+                    success: function (vracena) {
+                        ucitajSve();
+                        $('#inputName').val('');
+                        $('#inputParentId').val('');
+                        $('#greskaDodaj').text('');
+                    },
+                    error: function (xhr) {
+                        var msg = xhr.responseText;
+                        try {
+                            var obj = JSON.parse(xhr.responseText);
+                            if (obj.errors) {
+                                var msgs = [];
+                                for (var k in obj.errors) {
+                                    msgs.push(obj.errors[k].join(', '));
+                                }
+                                msg = msgs.join(' | ');
+                            }
+                        } catch { }
+                        $('#greskaDodaj').text('Greska: ' + msg);
+                    }
+                });
+            });
+
+            $('#tabela').on('click', '.btn-brisi', function () {
+                var red = $(this).closest('tr');
+                var id = red.data('id');
+
+                if (!confirm('Da li ste sigurni da zelite da obrisete kategoriju')){
+                    return;
+                }
+
+                $.ajax({
+                    url: '/api/Category/' + id,
+                    method: 'DELETE',
+                    success: function () {
+                        ucitajSve();
+                    },
+                    error: function (xhr) {
+                        var poruka = xhr.responseText || 'Doslo je do greskee.';
+                        alert('Greska pri vrisanju: ' + poruka);
+                    }
+                });
+            });
+        });
+    </script>
+}

@@ -1,76 +1,6 @@
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.slim.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\favicon.ico
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\js\site.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.slim.min.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.min.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery-validation\dist\additional-methods.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery\LICENSE.txt
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\css\site.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.slim.min.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery-validation\LICENSE.md
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.min.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-F:\Vezbe RVAS\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
-wwwroot\lib\bootstrap\dist\css\bootstrap.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -95,6 +25,14 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
@@ -108,6 +46,14 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
@@ -115,11 +61,65 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\lib\jquery-validation\dist\additional-methods.js
-wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-wwwroot\lib\jquery-validation\dist\jquery.validate.js
-wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-wwwroot\lib\jquery-validation\LICENSE.md
-wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Code first\RvasForumApp\wwwroot\css\site.css
+D:\Code first\RvasForumApp\wwwroot\favicon.ico
+D:\Code first\RvasForumApp\wwwroot\js\site.js
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\Code first\RvasForumApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\Code first\RvasForumApp\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Code first\RvasForumApp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery-validation\LICENSE.md
+D:\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.min.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.min.map
+D:\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\Code first\RvasForumApp\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\Code first\RvasForumApp\wwwroot\lib\jquery\LICENSE.txt
